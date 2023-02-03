@@ -1,4 +1,4 @@
-# sql-challenge
+Pewlett-Hackard-Employee-Data-Modeling-and-Engineering-with-SQL
 
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
